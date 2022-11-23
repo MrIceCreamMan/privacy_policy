@@ -1,1 +1,3 @@
-# privacy_policy
+# Privacy Policy
+
+This app does not collect data.
